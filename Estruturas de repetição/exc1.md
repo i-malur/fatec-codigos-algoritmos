@@ -1,5 +1,5 @@
 # Código
-```JS
+```MD
 Algoritmo "exercicio01-repetição"
 
 var
@@ -31,3 +31,4 @@ fimalgoritmo
 
 # Fluxograma
 ![alt text](imagens/exc01.png)
+

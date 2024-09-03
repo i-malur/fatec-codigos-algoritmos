@@ -1,4 +1,4 @@
-```js
+```MD
 Algoritmo "exercicio02-repetição"
 
 var
@@ -29,3 +29,4 @@ fimalgoritmo
 
 # Fluxograma
 ![alt text](imagens/exc02.png)
+
