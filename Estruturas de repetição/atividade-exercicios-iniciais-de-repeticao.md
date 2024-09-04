@@ -1,7 +1,7 @@
 # Exercício
-[Documento com descrição de atividade](tarefa2-estrutura-repeticao.docx)
-[Pasta com exercícios](exercicios)
-[Imagens com fluxogramas](imagens)
+[Documento com descrição de atividade](tarefa2-estrutura-repeticao.docx)  
+[Pasta com exercícios](exercicios)  
+[Imagens com fluxogramas](imagens)  
 
 ## Exercícios feitos
 * Exercício 1
