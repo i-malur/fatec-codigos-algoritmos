@@ -150,3 +150,6 @@ Inicio
 
 Fimalgoritmo
 ```
+
+# Chapin - Exercício 7i
+![alt text](chapin.png)
