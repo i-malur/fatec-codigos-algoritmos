@@ -75,7 +75,7 @@ Fimalgoritmo
 ```
 
 # Exercício 7E
-````md
+```md
 algoritmo "exercicio7E-manzano"
 
 
